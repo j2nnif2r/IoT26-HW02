@@ -49,7 +49,9 @@ button.when_pressed = led.on
 button.when_released = led.off
 
 pause()
+```
 
+---
 ## Team Roles
 - **Raspberry Pi Setup**: 김채윤, 김현보  
   (Raspberry Pi connection and development environment setup)
