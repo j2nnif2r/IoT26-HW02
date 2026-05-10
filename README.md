@@ -1,5 +1,5 @@
-# IoT26-HW01
-Gachon Univ. IoT Team F HW01
+# IoT26-HW02
+Gachon Univ. IoT Team F HW02
 
 ## Project Overview
 This project demonstrates how to read digital inputs using a Raspberry Pi.  
@@ -46,8 +46,8 @@ A push button is used as an input device, and an LED is controlled based on the 
 from gpiozero import Button, LED
 from signal import pause
 
-button = Button(2)
-led = LED(17)
+button = Button(14)
+led = LED(4)
 
 button.when_pressed = led.on
 button.when_released = led.off
