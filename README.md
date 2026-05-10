@@ -33,7 +33,7 @@ A push button is used as an input device, and an LED is controlled based on the 
 
 ---
 ## 🎥 Video
-https://youtube.com/shorts/zQwlU01Qszo?feature=share
+[https://youtube.com/shorts/zQwlU01Qszo?feature=share](https://www.youtube.com/shorts/cOuC-Jbngg4?feature=share)
 
 ---
 
