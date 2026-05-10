@@ -32,6 +32,10 @@ A push button is used as an input device, and an LED is controlled based on the 
 <img width="3024" height="4032" alt="KakaoTalk_20260510_215225961" src="https://github.com/user-attachments/assets/a6c5d33b-f292-4a16-9090-834e2e659b8c" />
 
 ---
+## 🎥 Video
+https://youtube.com/shorts/zQwlU01Qszo?feature=share
+
+---
 
 ## Code
 ```python
