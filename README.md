@@ -31,6 +31,9 @@ A push button is used as an input device, and an LED is controlled based on the 
 - 
 <img src="https://github.com/user-attachments/assets/a6c5d33b-f292-4a16-9090-834e2e659b8c" width="400" />
 
+## IDE / Terminal
+<img hw1_hardware.jpg width="400" />
+
 ---
 ## 🎥 Video
 [https://youtube.com/shorts/zQwlU01Qszo?feature=share](https://www.youtube.com/shorts/cOuC-Jbngg4?feature=share)
